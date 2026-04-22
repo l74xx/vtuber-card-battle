@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== VTuber Card Battle ===");
+        System.out.println("=== VTuber Card Battle Beta ===");
+	System.out.println("開發測試版本");
 
         // 測試 VTuber 卡
         VTuberCard earendel = new VTuberCard("厄倫蒂兒", 5, "DEEP_SPACE", 4, 6);
